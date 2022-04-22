@@ -27,6 +27,7 @@ class _ShrineAppState extends State<ShrineApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Shrine',
+      debugShowCheckedModeBanner: false,
       home: Backdrop(
         frontLayer: const HomePage(),
         backLayer: CategoryMenuPage(
