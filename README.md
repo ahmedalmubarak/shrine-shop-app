@@ -1,7 +1,12 @@
-# MDC-100 Series of Codelabs
+# SCREENSHOTS FROM THE APP
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# shrine-shop-app
+# LOGIN screen
+![](images/login.png)
+
+# HOME screen
+![](images/home.png)
+
+# BACDROP MENU screen
+![](images/backdrop-menu.png)
+
